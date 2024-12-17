@@ -1,0 +1,10 @@
+audioread
+dill
+fsspec
+pandas
+pydub
+scikit-learn
+sonopy
+tabulate
+torch
+torchaudio

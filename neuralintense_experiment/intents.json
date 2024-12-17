@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Арай"
+      ],
+      "responses": [
+        "Добрый день"
+      ]
+    }
+  ]
+}
